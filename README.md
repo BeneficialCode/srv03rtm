@@ -1,4 +1,4 @@
 # srv03rtm
-Windows 2003 x86 ntos source
+Windows 2003 Server ntos source
 
-The source is from nt5src.
+The source code is from nt5src.
